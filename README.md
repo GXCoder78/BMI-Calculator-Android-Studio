@@ -40,4 +40,4 @@ The **BMI Calculator** is a mobile application developed using **Android Studio*
 3. Build and run the app on an **Android Emulator** or a **physical device**.
 
 ## 📬 Contact
-📧 Email: adrianyeo.dev48@gmail.com        
+📧 Email: capabledev2@gmail.com        
